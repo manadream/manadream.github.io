@@ -5,6 +5,7 @@
 {% endif %}
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}
+  <a href="{{ tile.url  | relative_url }}">
   <article>
     <span class="image">
       <img src="{{ tile.image }}" alt="" />
@@ -18,5 +19,6 @@
     </header>
       
   </article>
+  </a>
   {% endfor %}
 </section>
