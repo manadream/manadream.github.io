@@ -9,12 +9,18 @@
     <span class="image">
       <img src="{{ tile.image }}" alt="" />
     </span>
-      {% if tile.show-tile-title %}
+      
     <header class="major">
+        {% if tile.show-tile-title %}
       <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
       <p>{{ tile.description }}</p>
+        {% elsif tile.title-image %}
+        <span class="image">
+          <img src="{{ tile.title-image }}" alt="" />
+        </span>
+        {% endif %}
     </header>
-      {% endif %}
+      
   </article>
   {% endfor %}
 </section>
