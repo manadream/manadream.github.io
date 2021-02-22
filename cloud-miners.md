@@ -2,7 +2,7 @@
 layout: post
 title: Cloud Miners
 description: Lorem ipsum dolor est
-image: assets/images/cmlogo.png
+tile-image: assets/images/cmlogo.png
 nav-menu: true
 show-tile-title: false
 ---
