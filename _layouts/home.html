@@ -37,9 +37,15 @@
         <!-- Two -->
         <section id="two">
 	  <div class="inner">
+		  <header class="major">
+                    <h2>Latest Blog Posts</h2>
+                </header>
           {% for post in site.posts %}
+		  {% if forloop.index >= 4 %}
+		      {% break %}
+		  {% endif %}
 	  {% if post.title != 404 %}
-	  <header class="major">
+	  <header class="minor">
 	    <h1>{{ post.title }}</h1>
 	  </header>
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
@@ -47,9 +53,9 @@
 	  <p>{{ post.content }}</p>
 	  {% endif %}
           {% endfor %}
-	  </div>
+		  <a href="{{site.baseurl}}/all_posts.html" >See all posts</a>
+		</div>
         </section>
-
     </div>
 
     {% include footer.html %}
