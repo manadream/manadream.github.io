@@ -28,6 +28,10 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/manadream_
+spotify_url: https://play.spotify.com/artist/5n2GG1ZwhTvqEpEi2LnfKv
+youtube_url: https://www.youtube.com/channel/UCXW5tl7eP3vmhCfPOOiUJ0w
+twitch_url: https://www.twitch.tv/manadreams
+discord_url: https://discord.gg/RmkWPQZ
 
 # build settings
 markdown: kramdown
