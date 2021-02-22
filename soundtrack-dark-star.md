@@ -11,3 +11,5 @@ show-tile-title: false
 
 Listen to the Dark Star (Demo) OST on [Bandcamp](https://manadream.bandcamp.com), [SoundCloud](https://soundcloud.com/manadream), [Spotify, iTunes, Amazon and more](https://distrokid.com/hyperfollow/manadream/dark-star-demo-original-video-game-soundtrack).
 
+Check out the game demo, which I did the art as well as music for, on [Lost Generation's Itch.io](https://lostgenerationgames.itch.io/darkstar)
+
