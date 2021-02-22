@@ -2,7 +2,7 @@
 layout: post
 title: Shell Out Showdown
 description: Lorem ipsum dolor est
-image: assets/images/shellout.png
+tile-image: assets/images/shellout.png
 nav-menu: true
 show-tile-title: false
 ---
