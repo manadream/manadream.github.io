@@ -1,14 +1,21 @@
 ---
 layout: post
 title: Cloud Miners
-description: Lorem ipsum dolor est
+description: Cloud Miners is available to wishlist on Steam!
 tile-image: assets/images/cmlogo.png
 nav-menu: true
 show-tile-title: false
 ---
+Cloud Miners is a 2D couch co-op space mining and exploration game!
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+You and your shipmates have been attacked and your ship destroyed! A Cloud Corp ship was nearby and able to save the crew at the last minute, but now you are indebted to Cloud Corp. In order to buy a new ship, and your freedom back, you must toil away mining asteroids and planets of their valuable resources, running on suspicious missions for Cloud Corp and entertaining spectators in the C.L.A.A.S.H. Coliseum battle arena. Your lives now belong to Cloud Corp, and it's up to you to take your power back!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+- Playable with up to 4 people
+- Choose from 4 different characters with different abilities and tools
+- Use the crew's ship and venture out on foot to complete missions
+- A mix of procedurally generated and crafted levels
+- Solve puzzles, fight battles, and use mined resources to complete missions 
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Cloud Miners is available to wishlist on Steam now!
+
+<iframe src="https://store.steampowered.com/widget/1244410/" frameborder="0" width="646" height="190"></iframe>
