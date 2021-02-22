@@ -7,7 +7,7 @@
   {% for tile in tiles limit:site.tiles-count %}
   <article onclick="window.location.href='{{ tile.url  | relative_url }}';">
     <span class="image">
-      <img src="{{ tile.image }}" alt="" />
+      <img src="{{ tile.tile-image }}" alt="" />
     </span>
       
     <header class="major">
