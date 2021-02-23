@@ -4,7 +4,7 @@ title: manadream entertainment
 email: mana@manadream.games
 description: Games and Media by Mana Dream
 baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://manadream.games
 author: Mana Dream
 street_address: 
 city: San Francisco
