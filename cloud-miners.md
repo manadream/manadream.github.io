@@ -7,6 +7,8 @@ nav-menu: true
 show-tile-title: false
 ---
 
+<iframe width="100%" height="600" src="https://www.youtube-nocookie.com/embed/qZ9WqB35oMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe src="https://store.steampowered.com/widget/1244410/" frameborder="0" width="646" height="190"></iframe>
 
 Cloud Miners is a 2D couch co-op space mining and exploration game!
