@@ -14,6 +14,7 @@ show-tile-title: false
 
 <details>
   <summary>日本のストアページ (ここをクリック)</summary>
+  <br/>
   <div>
 <p>自分のアイテムをすべて分け与え、その状態をキープし続けたプレイヤーが勝利する<strong>フードファイト逆バトルロワイアル</strong>！</p>
 <p><em></em></p><em>
@@ -34,7 +35,7 @@ show-tile-title: false
 </em><p><em>シェルアウト・ショーダウンは、<strong>Bay Area Dev Collective</strong>が過去に実施した「モラセス・ジャム」に参加したゲームの一つです。そのゲームジャムは<em>暴力的なジャンルを非暴力的に</em>がテーマでした。私は暴力的なゲームが大半を占めるバトルロワイアルのジャンルを選び、後にシェルアウト・ショーダウンが誕生しました！<br></em></p><p><br></p>
   </div>
 </details>
-<p><strong>A food-fight, reverse battle royale where everybody stays in the game until one player gives out all their items and remains empty handed to win!<br></strong></p>
+<p><strong>A food-fight, reverse battle royale where everybody stays in the game<br/>until one player gives out all their items and remains empty handed to win!<br></strong></p>
 <p><img src="/assets/images/levelShowcaseEN.gif"></p>
 <p><strong></strong></p>
 <p><strong>Choose your anthropomorphic vending machine and get to food tossin'!</strong></p>
