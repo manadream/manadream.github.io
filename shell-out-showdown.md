@@ -11,11 +11,10 @@ show-tile-title: false
 <iframe width="100%" height="600" src="https://www.youtube-nocookie.com/embed/6AugzN6W-UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://store.steampowered.com/widget/1556660/" frameborder="0" width="646" height="190"></iframe>
-<br/>
-<iframe src="https://www.humblebundle.com/widget/v2/product/shell_out_showdown_widget/YaKgjyg3cF?theme=dark" width="526" height="370" style="border: none;" scrolling="no" frameborder="0"></iframe>
-<br/>
+<p/>
 <iframe src="https://itch.io/embed/923443?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://manadream.itch.io/shell-out-showdown">Shell Out Showdown by manadream</a></iframe>
-<br/>
+<p/>
+<iframe src="https://www.humblebundle.com/widget/v2/product/shell_out_showdown_widget/YaKgjyg3cF?theme=dark" width="526" height="370" style="border: none;" scrolling="no" frameborder="0"></iframe>
 <details>
   <summary>日本のストアページ (ここをクリック)</summary>
   <br/>
