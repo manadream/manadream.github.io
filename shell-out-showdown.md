@@ -12,6 +12,10 @@ show-tile-title: false
 
 <iframe src="https://store.steampowered.com/widget/1556660/" frameborder="0" width="646" height="190"></iframe>
 
+<iframe src="https://www.humblebundle.com/widget/v2/product/shell_out_showdown_widget/YaKgjyg3cF?theme=light" width="526" height="332" style="border: none;" scrolling="no" frameborder="0"></iframe>
+
+<iframe src="https://itch.io/embed/923443?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://manadream.itch.io/shell-out-showdown">Shell Out Showdown by manadream</a></iframe>
+
 <details>
   <summary>日本のストアページ (ここをクリック)</summary>
   <br/>
