@@ -1,99 +1,106 @@
 <!DOCTYPE html>
 <!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  Forty by HTML5 UP
+  html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body>
 
     {% include header.html %}
 
     <!-- Banner 
-    <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ page.landing-title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
-                </ul>
-            </div>
-        </div>
-    </section>
+      <section id="banner" class="major">
+      <div class="inner">
+      <header class="major">
+      <h1>{{ page.landing-title }}</h1>
+      </header>
+      <div class="content">
+      <p style="text-transform: uppercase;">{{ site.description }}</p>
+      <ul class="actions">
+      <li><a href="#one" class="button next scrolly">Get Started</a></li>
+      </ul>
+      </div>
+      </div>
+      </section>
     -->
 
     <!-- Main -->
     <div id="main">
 
-        <!-- One -->
-        {% include tiles.html %}
-	    
-	<section id="two">
-	  <div class="inner">
-		  <div class="box">
-			  <!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="https://games.us1.list-manage.com/subscribe/post?u=473fc506c0080f7cadde41f51&amp;id=6d0e1b00fc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Sign Up to get monthly updates on my games and projects!</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_473fc506c0080f7cadde41f51_6d0e1b00fc" tabindex="-1" value=""></div>
-	    <p></p>
-	    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
+      <!-- One -->
+      {% include tiles.html %}
 
-<!--End mc_embed_signup-->
-		  </div>
-		</div>
-	    </section>
+      <section id="two">
+        <div class="inner">
+          <header class="major">
+            <a href="https://merch.manadream.games"><h2>Merch</h2></a>
+          </header>
+          <iframe src="https://merch.manadream.games" width="100%" height="600"></iframe>
+        </div>
+      </section>
 
-        <!-- Two -->
-        <section id="three">
-	  <div class="inner">
-		  <header class="major">
-                    <h2>Latest Blog Posts</h2>
-                </header>
+      <section id="three">
+        <div class="inner">
+          <div class="box">
+            <!-- Begin Mailchimp Signup Form -->
+            <div id="mc_embed_signup">
+              <form action="https://games.us1.list-manage.com/subscribe/post?u=473fc506c0080f7cadde41f51&amp;id=6d0e1b00fc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div id="mc_embed_signup_scroll">
+                  <h2>Sign Up to get monthly updates on my games and projects!</h2>
+                  <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+                  <div class="mc-field-group">
+                    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+                    </label>
+                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                  </div>
+                  <div class="mc-field-group">
+                    <label for="mce-FNAME">First Name </label>
+                    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                  </div>
+                  <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_473fc506c0080f7cadde41f51_6d0e1b00fc" tabindex="-1" value=""></div>
+                  <p></p>
+                  <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                </div>
+              </form>
+            </div>
+            <!--End mc_embed_signup-->
+          </div>
+        </div>
+      </section>
+
+      <section id="four">
+        <div class="inner">
+          <header class="major">
+            <h2>Latest Blog Posts</h2>
+          </header>
           {% for post in site.posts %}
-		  {% if forloop.index >= 4 %}
-		      {% break %}
-		  {% endif %}
-	  {% if post.title != 404 %}
-	  <header class="minor">
-	    <h1>{{ post.title }}</h1>
-	  </header>
-	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	  {% if post.date %}<p>{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
-	  <p>{{ post.content }}</p>
-	  {% endif %}
+          {% if forloop.index >= 4 %}
+          {% break %}
+          {% endif %}
+          {% if post.title != 404 %}
+          <header class="minor">
+            <h1>{{ post.title }}</h1>
+          </header>
+          {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+          {% if post.date %}<p>{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
+          <p>{{ post.content }}</p>
+          {% endif %}
           {% endfor %}
-		  <a href="{{site.baseurl}}/all_posts.html" >See all posts</a>
-		</div>
-        </section>
+          <a href="{{site.baseurl}}/all_posts.html" >See all posts</a>
+        </div>
+      </section>
     </div>
 
     {% include footer.html %}
 
-</body>
+  </body>
 
 </html>
