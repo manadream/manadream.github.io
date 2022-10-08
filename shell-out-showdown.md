@@ -14,7 +14,8 @@ show-tile-title: false
 <p/>
 <iframe src="https://itch.io/embed/923443?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://manadream.itch.io/shell-out-showdown">Shell Out Showdown by manadream</a></iframe>
 <p/>
-<iframe src="https://www.humblebundle.com/widget/v2/product/shell_out_showdown_widget/YaKgjyg3cF?theme=dark" width="526" height="370" style="border: none;" scrolling="no" frameborder="0"></iframe>
+<a href="https://www.humblebundle.com/store/shell-out-showdown">Get it on the Humble Store!</a>
+<p/>
 <details>
   <summary>日本のストアページ (ここをクリック)</summary>
   <br/>
