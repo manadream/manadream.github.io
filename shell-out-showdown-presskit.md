@@ -1,5 +1,5 @@
 ---
-layout: presskit
+layout: shelloutpresskit
 title: Shell Out Showdown Presskit
 landing-title: 'Shell Out Showdown Presskit'
 nav-menu: false
