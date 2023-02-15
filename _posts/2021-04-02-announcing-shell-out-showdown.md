@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing: Shell Out Showdown!
+title: Announcing - Shell Out Showdown!
 description: My latest project can be wishlisted on Steam now!
 ---
 <iframe width="100%" height="600" src="https://www.youtube-nocookie.com/embed/6AugzN6W-UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
