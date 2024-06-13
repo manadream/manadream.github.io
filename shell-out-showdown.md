@@ -2,7 +2,7 @@
 layout: post
 title: Shell Out Showdown
 description: A food-fight battle royale set in the near future.
-tile-image: assets/images/shelloutWide.png
+tile-image: assets/images/shelloutUltraWide.png
 nav-menu: true
 show-tile-title: false
 tile-index: 1
