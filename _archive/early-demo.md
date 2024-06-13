@@ -3,7 +3,7 @@ layout: post
 title: Cloud Miners *MagWest 2020 Exclusive* Downloadable Gameplay Demo
 description: Cloud Miners is available to wishlist on Steam!
 nav-menu: false
-show_tile: false
+show-tile: false
 ---
 MagWest is over, but stay tuned for a beta release coming soon! 
 
