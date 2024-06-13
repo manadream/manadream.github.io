@@ -21,7 +21,7 @@ tile-index: 0
 <p>Each run earns you shards. You can use shards to unlock permanent perks and a variety of new heroes. Cards also earn experience, and once they're earned enough, you'll be able to choose a permanent augmentations for each.</p>
 
 <p><strong>Features</strong></p>
-<ul><li>Hec4 special symbols (Sword, Magic, Shield, Bow) each with its own strengths and weaknesses.
+<ul><li>4 special symbols (Sword, Magic, Shield, Bow) each with its own strengths and weaknesses.
     
 </li><li>Card combos that can dramatically turn the tide of battle in a single turn.
 
