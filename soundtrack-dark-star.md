@@ -6,7 +6,7 @@ tile-image: assets/images/darkstar.png
 image: assets/images/darkstar.png
 nav-menu: true
 show-tile-title: false
-tile-index: 2
+show-tile: false
 ---
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1150343246/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://manadream.bandcamp.com/album/dark-star-demo-original-soundtrack">Dark Star (Demo): Original Soundtrack by manadream</a></iframe>
 
