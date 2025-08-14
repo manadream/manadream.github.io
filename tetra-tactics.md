@@ -5,7 +5,7 @@ description: A roguelike deckbuilder inspired by Triple Triad with deep meta-pro
 tile-image: assets/images/TetraTactics.png
 nav-menu: true
 show-tile-title: false
-tile-index: 0
+tile-index: 1
 ---
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/M6qx5MgSq9M?si=W_79rjKBm_H2kgSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
